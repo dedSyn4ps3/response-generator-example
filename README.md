@@ -19,7 +19,7 @@ for us to have to create tailored response messages with contact info specific t
 
 <br>
 
-> This repository is meant to supplement the <a>Medium article</a>: **"Using PowerShell Forms for Repetitive Tasks"**
+> This repository is meant to supplement the <a href="https://medium.com/@erutherford_nullreturn/using-powershell-forms-for-repetitive-tasks-eeef814bee4">Medium article</a>: **"Using PowerShell Forms for Repetitive Tasks"**
 
 <br>
 
